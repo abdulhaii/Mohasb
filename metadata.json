@@ -1,0 +1,6 @@
+{
+  "name": "محاسب المصاريف اليومية الذكي",
+  "description": "تطبيق محاسبة متكامل وسهل الاستخدام لإدارة وتتبع المصاريف اليومية والميزانيات مع مستشار مالي ذكي وتحليل الفواتير واستوديو الصور المالية باستخدام Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
